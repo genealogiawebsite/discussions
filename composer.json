@@ -1,25 +1,25 @@
 {
-    "name": "laravel-enso/discussions",
+    "name": "genealogiawebsite/discussions",
     "description": "Discussion board for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "discussions"
     ],
-    "homepage": "https://github.com/laravel-enso/discussions",
+    "homepage": "https://github.com/genealogiawebsite/discussions",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/track-who": "^2.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/track-who": "^2.0"
     },
     "autoload": {
         "psr-4": {
